@@ -1,12 +1,9 @@
 # Hi, I'm Mayur Makwana 👋
 
 ## About Me
-- 🤖 Intermediate Machine Learning practitioner
-- 🐍 Strong in Python and core data science libraries
-- 📊 Skilled in data preprocessing, feature engineering, and model building
-- 🚀 Focused on building real-world ML projects
-- 🎯 Goal: Become a Machine Learning / AI Engineer
-
+Machine Learning practitioner with hands-on experience in Python, data preprocessing, 
+feature engineering, and classification models. Focused on building practical, 
+end-to-end ML projects and continuously improving model performance.
 ---
 
 ## Technical Skills
