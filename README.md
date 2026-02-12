@@ -1,4 +1,4 @@
-# Hi, I'm Mayur Makwana 👋
+# Hello, I'm Mayur
 
 ## About Me
 
