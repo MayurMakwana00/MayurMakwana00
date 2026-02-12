@@ -63,4 +63,4 @@
 ---
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayur%20Makwana-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayur%20Makwana-blue?logo=linkedin)](https://www.linkedin.com/in/mayur-makwana-63758a286/)
