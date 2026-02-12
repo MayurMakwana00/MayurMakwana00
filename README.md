@@ -1,9 +1,10 @@
 # Hi, I'm Mayur Makwana 👋
 
 ## About Me
-Machine Learning practitioner with hands-on experience in Python, data preprocessing, 
-feature engineering, and classification models. Focused on building practical, 
-end-to-end ML projects and continuously improving model performance.
+
+> Machine Learning practitioner with hands-on experience in Python, data preprocessing,  
+> feature engineering, and classification models. Focused on building practical,  
+> end-to-end ML projects and continuously improving model performance.
 ---
 
 ## Technical Skills
